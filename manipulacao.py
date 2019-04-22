@@ -14,9 +14,6 @@ def main():
 
 def menu():
     
-    
-    print "\n\n   Processo Seletivo Raccoon  -( T.I )\n"
-    print "Candidato-> Rodolfo Casemiro Ribeiro    "
     print "¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\n"
     print "Menu de Funções:\n\nDigite:"
     print "  (1)  para  Impressão e Substituição De Elementos [name] do JSON"
